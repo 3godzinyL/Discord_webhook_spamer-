@@ -1,0 +1,2 @@
+# Discord_webhook_spamer-
+EN:  Program for sending a message to the webhook (discord) functions: - Click = message - Automatic (you choose the time between messages yourself - 1 webhook - I will try to add a few webhooks PL: Program do wysyłania wiadomość na webhook ( discord ) funkcje : - Kliknięcie = wiadomość  - Automatyczne ( sam wybierasz czas pomiędzy wiadomościami - 1 webhook  - Postaram sie dodać na kilka webhooków 
