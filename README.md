@@ -16,7 +16,10 @@ Program do wysyłania wiadomości do funkcji webhooka (discord):
 - 1 webhook
 - Postaram się dodać kilka webhooków
 
-https://cdn.discordapp.com/attachments/1016057210863886449/1017434317124796567/unknown.png
 Info:
 Program całości w c# posada 2 dodatkowe klasy : http + config .
 !Programu używaj na własną odpowiedzialność wszystko w celu edukacyjnym !!!
+
+
+picture/zdjęcie
+https://cdn.discordapp.com/attachments/1016057210863886449/1017434317124796567/unknown.png
